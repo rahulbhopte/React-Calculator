@@ -1,0 +1,28 @@
+.calculator {
+  width: 322px;
+  margin: 10px auto;
+}
+#answer {
+  background-color: lightcyan;
+  width: 293px;
+  padding: 10px;
+  font-size: 35px;
+  widows: 295px;
+  height: 45px;
+  text-align: right;
+  border: 3px solid black;
+}
+
+.button {
+  background: #333;
+  height: 80px;
+  width: 80px;
+  color: white;
+  font-size: 30px;
+  border: 1px solid black;
+  float: left;
+  display: inline;
+}
+.button1 {
+  width: 160px;
+}
